@@ -19,8 +19,41 @@ The project includes:
 - Python (pandas, seaborn, matplotlib) – Data cleaning and visualisation
 - Tableau – Interactive dashboard (Can be found here: )
 - Excel – Preliminary data analysis
-- PowerPoint – Report presentation
+- PowerPoint – Analysis
+
+## 📜 In-Depth Analysis  
+[![View Presentation](https://img.shields.io/badge/View-Presentation-blue?style=for-the-badge)](https://docs.google.com/presentation/d/1jHD2WH8zSFL0360skbP9l9zEXddViMnI/edit?usp=sharing&ouid=116580473493135477104&rtpof=true&sd=true)
+
  
+## 📈 Interactive Dashboard
+View the Tableau Dashboard here:
+https://public.tableau.com/views/HRAnalysisDashboard_17389406352520/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+📎 Files in This Repository
+kotlin
+Copy
+Edit
+📂 HR-Analysis-Project  
+│── 📜 README.md  → Project documentation (this file)  
+│── 📊 HR Analysis Project.pptx  → Presentation slides with insights  
+│── 📄 hr_dataset.csv  → Dataset used for analysis  
+│── 📊 Tableau-Dashboard.twbx  → Tableau workbook  
+│── 📜 analysis.ipynb  → Python notebook for data processing  
+
+## 🚀 How to Use This Project
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/Rexisk/HR-Analysis-Project.git
+cd HR-Analysis-Project
+```
+2️⃣ Open the Jupyter Notebook (HR Analysis Notebook.ipynb) to explore the dataset.
+3️⃣ View the Tableau dashboard (Tableau Workbook.twbx) for interactive analysis.
+4️⃣ Check the PowerPoint slides (HR Analysis Project.pptx) for key insights & recommendations.
+
+## 📬 Contact & Feedback
+If you have any feedback or suggestions, feel free to reach out! (LinkedIn: https://www.linkedin.com/in/darrenfcl/)
+
 ## Dataset used (Credits):
 The primary dataset used in my project was an old version of a Kaggle dataset:
 https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
