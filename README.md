@@ -3,7 +3,12 @@ Author: Foo Chit Long Darren
 Date: January 2025
 
 ## 📌 Overview
-This project is an HR Analytics study conducted on a synthetic dataset from Kaggle, focused on understanding key human resource trends, including employee retention, recruitment effectiveness, manager performance, pay rate factors, and workforce demographics. The analysis was performed using data visualization and statistical techniques to provide actionable insights for business decision-making.
+This is a personal project that combines my background in Human Resource (HR) management from my diploma studies with my current knowledge in business analytics as an undergraduate. It is conducted on a synthetic dataset from Kaggle, focused on understanding key human resource trends, including employee retention, recruitment effectiveness, manager performance, pay rate factors, and workforce demographics. The analysis was performed using data visualization and statistical techniques to provide actionable insights for business decision-making.  
+
+🚀 Why This Project?  
+- Bridging HR & Analytics → I wanted to combine my HR foundation with data analytics skills to explore how data-driven insights can enhance HR strategies.  
+- Real-World Application → This project simulates how companies can leverage data to improve hiring efficiency, workforce retention, and employee performance evaluation.  
+- Hands-On Learning → This project allows me to apply data science techniques such as exploratory data analysis (EDA), visualization, and statistical modeling in an HR context.  
 
 ## 📂 Project Contents
 The project includes:
